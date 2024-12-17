@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: attempting to calculate the length of an infinite list. The `Bug.hs` file contains code that produces this error, while `BugSolution.hs` shows a corrected version that uses safe list manipulation techniques.
